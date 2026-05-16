@@ -122,3 +122,24 @@ IMU-TJU_TMT_VIV_model/
 │
 └── docs/
     └── parameter_description.md
+---
+
+## Contact
+
+This project is maintained by the authors of the associated manuscript.
+
+For questions regarding the model formulation, numerical implementation, reproducibility, or potential collaboration, please contact:
+
+| Name | Affiliation | Contact |
+|---|---|---|
+| Zexin Feng | School of Mechanical Engineering, Tianjin University | `zexinfeng@tju.edu.cn` |
+| Lin Zhang | College of Computer Science, Nankai University | `2120240759@mail.nankai.edu.cn` |
+| Shuang Lv | College of Computer Science, Inner Mongolia University | `13504537325@163.com` |
+
+The final contact information and citation details will be updated after publication of the associated paper.
+
+---
+
+## Release Note
+
+This repository is currently prepared as a pre-release project page. The complete simulation code, example cases, benchmark settings, plotting scripts, and documentation will be formally open-sourced after the associated research paper is accepted or published.
